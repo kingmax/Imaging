@@ -3,6 +3,7 @@
 """
 Author:  iJasonLee (kingmax_res@163.com;184327932@qq.com)
 Purpose: Pillow study (http://docs.python-guide.org/en/latest/scenarios/imaging/)
+Install: pip install Pillow
 Created: 2017/9/13
 Tutorial: https://pillow.readthedocs.io/en/3.0.x/handbook/tutorial.html
 """
